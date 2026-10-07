@@ -105,5 +105,4 @@ This means the same `www/` code works both as a quick browser prototype and the 
 - Dark mode
 
 ## License
-
-This project is open source. Add a license of your choice (MIT is a common default for personal projects).
+This project is an open source project.
